@@ -1,5 +1,9 @@
 h1::before{
-content: 💕
+content: "💕";
+}
+
+p::after{
+content: "🥰";
 }
 
 
